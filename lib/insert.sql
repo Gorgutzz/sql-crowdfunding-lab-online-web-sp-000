@@ -16,7 +16,8 @@ VALUES (1, 'Half Life 3', 'games', 500.00, '2013-06-30', '2013-07-30'),
 (9, 'New chair', 'renovate', 3000.00, '2013-06-30', '2013-09-30'),
 (10, 'Cyberpunk 2077', 'games', 5000.00, '2012-03-20', '2013-06-30');
 
-INSERT INTO pledges (id, amount, user_id, project_id) VALUES
+INSERT INTO pledges (id, amount, user_id, project_id)
+VALUES
 (1, 10.00, 1, 2),
 (2, 20.00, 1, 3),
 (3, 40.00, 1, 4),
