@@ -1,5 +1,5 @@
-INSERT INTO users(name, age)
-VALUES (1, 'Finnebar', 17), (2, 'Bear', 6), (3, 'Iguana', 4), (4, 'Alex', 33),
-(5, 'Amanda', 24), (6, 'Sophie', 24), (7, 'Rosey', 9), (8, 'Victoria', 23), (9, 'Franz', 100), (10, 'Hermione', 30),
-(11, 'Voldemort', 90), (12, 'Marisa', 24), (13, 'Swizzle', 4), (14, 'Sirius', 36), (15, 'Albus', 113), (16, 'Squid', 5),
-(17, 'Whale', 6), (18, 'Pacha', 5), (19, 'Ena', 24), (20, 'Katie', 24);
+INSERT INTO users(id, name, age)
+VALUES (1, 'a', 17), (2, 'b', 6), (3, 'c', 4), (4, 'd', 33),
+(5, 'e', 24), (6, 'f', 24), (7, 'g', 9), (8, 'h', 23), (9, 'i', 100), (10, 'j', 30),
+(11, 'k', 90), (12, 'l', 24), (13, 'me', 4), (14, 'n', 36), (15, 'o', 113), (16, 'p', 5),
+(17, 'q', 6), (18, 'r', 5), (19, 's', 24), (20, 't', 24);
